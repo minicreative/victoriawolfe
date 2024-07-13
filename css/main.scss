@@ -19,18 +19,23 @@ div, input, textarea {box-sizing:border-box;}
 // Site Styles
 body {
     background:#222; color:white;
-    font-family:'Figtree', sans-serif; line-height:1.5; font-size:18px;
+    font-family:'Roboto', sans-serif; line-height:1.5; font-weight:400; font-size:18px;
     @include breakpoint(s) {font-size:16px;}
 }
-h1, h2, h3 {margin-top:30px;}
-h1 {font-size:32px;}
+h1, h2, h3 {margin-top:30px; font-weight:700;
+    @include breakpoint(s) {margin-top:25px;}}
+h1 {font-size:38px; text-transform:uppercase;
+    @include breakpoint(s) {font-size:32px;}}
 h2 {font-size:28px;}
 h3 {font-size:24px;}
 
 // Components
-.container {position:relative; width:100%; height:100%; padding:30px;}
+.container {
+    position:relative; width:100%; height:100%; padding:40px 30px;
+    @include breakpoint(s) {padding:30px 25px;}
+}
 .content {
-    max-width:640px; margin:0px auto; text-align:center;
+    max-width:680px; margin:0px auto; text-align:center;
     img {max-width:100%; margin:20px auto;}
     a {border-bottom:1px solid white;}
 }

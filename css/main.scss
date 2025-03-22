@@ -36,7 +36,10 @@ h3 {font-size:24px;}
 }
 .content {
     max-width:840px; margin:0px auto;
-    img {max-width:100%; max-height:400px; margin:20px auto; border:2px solid white;}
+    img {max-width:100%; max-height:400px; margin:20px 0px; border:2px solid white;}
+    img.center {margin:20px auto;}
+    img.large {display:block; width:600px; max-height:none;}
+    img.half {display:inline-block; vertical-align:top; width:48%; margin-right:1%;}
     a {border-bottom:1px solid white;}
     h1:first-of-type {margin-bottom:-20px;}
 }

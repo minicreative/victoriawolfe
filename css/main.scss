@@ -18,7 +18,7 @@ div, input, textarea {box-sizing:border-box;}
 
 // Site Styles
 body {
-    background:#222; color:white;
+    background:#6d879e; color:white;
     font-family:'Roboto', sans-serif; line-height:1.5; font-weight:400; font-size:18px;
     @include breakpoint(s) {font-size:16px;}
 }
@@ -35,8 +35,9 @@ h3 {font-size:24px;}
     @include breakpoint(s) {padding:30px 25px;}
 }
 .content {
-    max-width:680px; margin:0px auto; text-align:center;
-    img {max-width:100%; margin:20px auto;}
+    max-width:840px; margin:0px auto;
+    img {max-width:100%; max-height:400px; margin:20px auto; border:2px solid white;}
     a {border-bottom:1px solid white;}
+    h1:first-of-type {margin-bottom:-20px;}
 }
 

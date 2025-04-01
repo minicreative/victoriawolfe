@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: page
 ---
-# victoria wolfe
+c# victoria wolfe
 
 images and sound
 
@@ -11,15 +11,15 @@ images and sound
 
 I write and create with video and sound. My themes are environmental activism and urban realism.
 
-**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. The colors, sounds and scents - an immersive French Manhattan environment - plus the German and Austrian 20th Century art on the walls gave me an expansive understanding that thereafter defined what I would write: humorous, dark, luxe themes of struggle, rebellion and bathos.
+**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. The colors, sounds and scents - an immersive French Manhattan environment - plus the German and Austrian 20th Century art on the walls gave me an expansive understanding that thereafter defined what I would write: humorous, dark, luxe themes.
 
 **my visuals:** I conjure the Peter Max graphic art that saturated my first years living in Manhattan as a child. A Nam June Paik retrospective at the Whitney Museum and my father's exploration of creative audio cassette recording drew me to analog and digital video creating.
 
-**my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image. Cassette recordings I made with my father, the Beatles Sgt Pepper Album, Edgard Varese and John Cage, and a vinyl recording of Eudora Welty reading her hilarious, poignant story The Petrified Man.
+**my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image.
 
 All of my time-based art came from a desire to include video projection in my plays. I found myself writing moving images into the scripts. After studying archives of Super8 home movies and art films for many years, I developed conceptually and decided to make my own. I've lived a bi-coastal life over the last 25 years, and that gives me access to varied color palettes and differing natural light in New York City versus Northern California.
 
-Rich color schemes, post-mod neon and lush black-and-white references to mid-century Italian cinema inspire me.
+
 
 ### writer
 
@@ -42,7 +42,7 @@ Rich color schemes, post-mod neon and lush black-and-white references to mid-cen
 
 ### creator
 
-*SF VIDEO 1*, new wave video screener, director, editor Victoria Wolfe, via DJ Brian Raffi SF club, March 2025
+*SF VIDEO 1*, video screener, director, editor Victoria Wolfe, f8 Nightclub and Bar, March 2025
 
 *CC McGurr of Le Grand Strip, Interview on 1980s downtown art world*, 2016, director, DP, editor Victoria Wolfe, Williamsburg, Brooklyn
 
@@ -88,7 +88,7 @@ Rich color schemes, post-mod neon and lush black-and-white references to mid-cen
 
 <img src="uploads/Work1.jpg" class="large" />
 <img src="uploads/Work2.jpg" class="half" />
-<img src="uploads/Work3.jpg" class="half" />
+
 
 Central Park Bench Maquette, foam core board, August 2009
 
@@ -114,3 +114,4 @@ download my CV as a PDF [here](uploads/VictoriaWolfeCV.pdf)
 ## contact
 
 [info@victoriawolfe.me](mailto:info@victoriawolfe.me)
+ 

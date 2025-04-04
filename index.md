@@ -84,8 +84,6 @@ Rich color schemes, post-mod neon and lush black-and-white references to mid-cen
 
 *DIALOGUE WITH POP*, 2004, curator, Spaceworks @ The Tank; incl Miranda July, Zhang Huan, Freestyle Collective, Maxi Cohen, Kent Lambert
 
-
-
 <img src="uploads/Work1.jpg" class="large" />
 <img src="uploads/Work2.jpg" class="half" />
 <img src="uploads/Work3.jpg" class="half" />

@@ -36,7 +36,7 @@ All of my time-based art came from a desire to include video projection in my pl
 * LOST Fringe Festival, Chiswick, London, Spring 2008, perf Libby Curley, dir Christine Young  
 * Monday Night @ the Marsh, SF April 2019, perf M.Perlmutter, dir Victoria Wolfe; and Nov 2007, perf Mica Thomas  
 
-*Nailing Tosca*, one-act staged the Piano Store Spring 1998 (dir Gregory Sims), full length considered by Forty Acres and a Mule (2000) and *Nailing Tosca (Re-mix) full length* 2006 requested by Deborah Taylor Barrera of FireMused in 2008 for Green Day  
+*Nailing Tosca*, one-act staged the Piano Store Spring 1998 (dir Gregory Sims), full length considered by Forty Acres and a Mule (2000) and *Nailing Tosca (Re-mix)* full length 2006 requested by Deborah Taylor Barrera of FireMused in 2008 for collab with Green Day  
 
 ### creator
 
@@ -92,8 +92,6 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
-
-
 
 <div style="text-align:center">
 <img src="uploads/Poster1.jpg" class="large center">

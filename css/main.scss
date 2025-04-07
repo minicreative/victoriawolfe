@@ -18,7 +18,7 @@ div, input, textarea {box-sizing:border-box;}
 
 // Site Styles
 body {
-    background:#6d879e; color:white;
+    background:#333; color:white;
     font-family:'Roboto', sans-serif; line-height:1.5; font-weight:400; font-size:18px;
     @include breakpoint(s) {font-size:16px;}
 }

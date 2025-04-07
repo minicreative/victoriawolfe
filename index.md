@@ -3,11 +3,11 @@ title: Home
 permalink: /
 layout: page
 ---
-# victoria wolfe
+# victoria wolfe 
 
 images and sound
 
-![](uploads/img_6210.jpg)
+![](uploads/VictoriaWolfe.png)
 
 I write and create with video and sound. My themes are environmental activism and urban realism.
 
@@ -18,8 +18,6 @@ I write and create with video and sound. My themes are environmental activism an
 **my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image. 
 
 All of my time-based art came from a desire to include video projection in my plays. I found myself writing moving images into the scripts. After studying archives of Super8 home movies and art films for many years, I developed conceptually and decided to make my own. I've lived a bi-coastal life over the last 25 years, and that gives me access to varied color palettes and differing natural light in New York City versus Northern California.
-
-
 
 ### writer
 

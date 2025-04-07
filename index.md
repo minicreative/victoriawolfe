@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: page
 ---
-# victoria wolfe 
+# victoria wolfe
 
 images and sound
 
@@ -27,7 +27,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 *Danika Lives!,* TV series in development, multiple Zoom readings 2024, video recorded
 
-*Battlements on Fire, RAW and uncut Artist Residency* at the garage artspace, SF, spring 2009/winter 2010, dir. Wilma Bonet
+*Battlements on Fire,* RAW and uncut residency at the garage artspace, SF, spring 2009/winter 2010, dir. Wilma Bonet
 
 *In Ithaca, When Physics Saved My Life,* prize-winning monologue, Fringe of Marin, Spring 2005 Best New Play, Best Actor, Best Director
 
@@ -84,7 +84,6 @@ All of my time-based art came from a desire to include video projection in my pl
 
 <img src="uploads/Work1.jpg" class="large" />
 <img src="uploads/Work2.jpg" class="half" />
-<img src="uploads/Work3.jpg" class="half" />
 
 Central Park Bench Maquette, foam core board, August 2009
 
@@ -94,7 +93,7 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
 
-*Reservoir Runner Central Park Bench Installation with Original Sound* Design and Concept by Victoria Wolfe, construction by Tracey Cockrell; Sound Selection by Victoria Wolfe, recorded with Tracey Cockrell
+
 
 <div style="text-align:center">
 <img src="uploads/Poster1.jpg" class="large center">

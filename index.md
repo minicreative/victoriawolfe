@@ -7,19 +7,19 @@ layout: page
 
 images and sound
 
-![](uploads/VictoriaWolfe.png)
+![](uploads/img_6210.jpg)
 
 I write and create with video and sound. My themes are environmental activism and urban realism.
 
-**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. The colors, sounds and scents - an immersive French Manhattan environment - plus the German and Austrian 20th Century art on the walls gave me an expansive understanding that thereafter defined what I would write: humorous, dark, luxe themes of struggle, rebellion and bathos.
+**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
 
 **my visuals:** I conjure the Peter Max graphic art that saturated my first years living in Manhattan as a child. A Nam June Paik retrospective at the Whitney Museum and my father's exploration of creative audio cassette recording drew me to analog and digital video creating.
 
-**my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image. Cassette recordings I made with my father, the Beatles Sgt Pepper Album, Edgard Varese and John Cage, and a vinyl recording of Eudora Welty reading her hilarious, poignant story The Petrified Man.
+**my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image. 
 
 All of my time-based art came from a desire to include video projection in my plays. I found myself writing moving images into the scripts. After studying archives of Super8 home movies and art films for many years, I developed conceptually and decided to make my own. I've lived a bi-coastal life over the last 25 years, and that gives me access to varied color palettes and differing natural light in New York City versus Northern California.
 
-Rich color schemes, post-mod neon and lush black-and-white references to mid-century Italian cinema inspire me.
+
 
 ### writer
 
@@ -42,7 +42,7 @@ Rich color schemes, post-mod neon and lush black-and-white references to mid-cen
 
 ### creator
 
-*SF VIDEO 1*, new wave video screener, director, editor Victoria Wolfe, via DJ Brian Raffi SF club, March 2025
+*SF VIDEO 1*, video screener, director, editor Victoria Wolfe, screened at f8 club & bar, March 2025
 
 *CC McGurr of Le Grand Strip, Interview on 1980s downtown art world*, 2016, director, DP, editor Victoria Wolfe, Williamsburg, Brooklyn
 
@@ -54,11 +54,11 @@ Rich color schemes, post-mod neon and lush black-and-white references to mid-cen
 
 *Tarantula Arms/Love to Hula*, 2012, director, editor, writer Victoria Wolfe, hula hoop perf Lucy Dill
 
-*Jones Beach Memory*, 2010, director, DP, editor, writer, original synth soundtrack, vintage cassette recording Victoria Wolfe, perf Andrew Purchin
+*Jones Beach Memory*, 2010, director, DP, editor, writer, original synth soundtrack, vintage cassette recording Victoria Wolfe, perf Andrew Purchin, Santa Cruz, CA
 
 *Schoolyard: Last Visit*, 2010, director, editor, and writer
 
-*Reservoir Runner: Black and White*, 2009, director, editor, writer, original analog soundscape Victoria Wolfe, dp Jorn Ake, sound record T Cockrell
+*Reservoir Runner: Black and White*, 2009, director, editor, writer, original analog soundscape Victoria Wolfe, dp Jorn Ake, sound record T Cockrell, Central Park NYC
 
 *Reservoir Runner Red*, 2009, director, editor, soundscape, cassette recording, soundscape Victoria Wolfe, dp Jorn Ake, cassette Herb Greenberg
 

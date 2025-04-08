@@ -3,11 +3,12 @@ title: Home
 permalink: /
 layout: page
 ---
-
 <div style="text-align:center">
 <h1>victoria wolfe</h1>
 <p>images and sound</p>
 </div>
+
+![](uploads/img_6210.jpg)
 
 <div style="font-size:14px; margin-top:-10px; text-align:center;">
  📷 Susan Hwang

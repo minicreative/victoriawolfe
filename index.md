@@ -3,11 +3,9 @@ title: Home
 permalink: /
 layout: page
 ---
+# victoria wolfe
 
-<div style="text-align:center">
-<h1>victoria wolfe</h1>
-<p>images and sound</p>
-</div>
+images and sound
 
 ![](uploads/VictoriaWolfe.png)
 
@@ -33,12 +31,19 @@ All of my time-based art came from a desire to include video projection in my pl
 
 *In Ithaca, When Physics Saved My Life,* prize-winning monologue, Fringe of Marin, Spring 2005 Best New Play, Best Actor, Best Director
 
-* Student Showcase, Risley Theater, Cornell University, Ithaca NY 2006  
-* Page-to-Stage at Dixon Place, NYC, December 2007, perf Nomi Tichman, dir Gabriel Shanks  
-* LOST Fringe Festival, Chiswick, London, Spring 2008, perf Libby Curley, dir Christine Young  
-* Monday Night @ the Marsh, SF April 2019, perf M.Perlmutter, dir Victoria Wolfe; and Nov 2007, perf Mica Thomas  
+\- Student Showcase, Risley Theater, Cornell University, Ithaca NY 2006  
 
-*Nailing Tosca*, one-act staged the Piano Store Spring 1998 (dir Gregory Sims), full length considered by Forty Acres and a Mule (2000) and *Nailing Tosca (Re-mix)* full length 2006 requested by Deborah Taylor Barrera of FireMused in 2008 for collab with Green Day  
+\- Page-to-Stage at Dixon Place, NYC, December 2007, perf Nomi Tichman, dir Gabriel Shanks  
+
+\- LOST Fringe Festival, Chiswick, London, Spring 2008, perf Libby Curley, dir Christine Young  
+
+\- Monday Night @ the Marsh, SF April 2019, perf M.Perlmutter, dir Victoria Wolfe;  Nov 2007, perf M.Thomas  
+
+*Nailing Tosca (Re-mix)* full length (2006) requested by Deborah Taylor Barrera of FireMused in 2008 for collab with Green Day  
+
+*Nailing Tosca*, full length considered by Forty Acres and a Mule (2000) 
+
+*Nailing Tosca*, one-act staged the Piano Store Spring 1998 (dir Gregory Sims) 
 
 ### creator
 
@@ -84,7 +89,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 *DIALOGUE WITH POP*, 2004, curator, Spaceworks @ The Tank; incl Miranda July, Zhang Huan, Freestyle Collective, Maxi Cohen, Kent Lambert
 
-<img src="uploads/Work1.jpg" class="half" />
+<img src="uploads/Work1.jpg" class="large" />
 <img src="uploads/Work2.jpg" class="half" />
 
 Central Park Bench Maquette, foam core board, August 2009
@@ -95,11 +100,8 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
 
-*Reservoir Runner Central Park Bench Installation with Original Sound* Design and Concept by Victoria Wolfe, construction by Tracey Cockrell; Sound Selection by Victoria Wolfe, recorded with Tracey Cockrell
-
-![](uploads/Poster1.jpg)
-
 <div style="text-align:center">
+<img src="uploads/Poster1.jpg" class="large center">
 original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
 @ the garage art space, San Francisco, 2009<br />
 a friend on my manhattan rooftop

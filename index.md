@@ -3,9 +3,11 @@ title: Home
 permalink: /
 layout: page
 ---
-# victoria wolfe
 
-images and sound
+<div style="text-align:center">
+<h1>victoria wolfe</h1>
+<p>images and sound</p>
+</div>
 
 ![](uploads/VictoriaWolfe.png)
 
@@ -93,8 +95,11 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
 
+*Reservoir Runner Central Park Bench Installation with Original Sound* Design and Concept by Victoria Wolfe, construction by Tracey Cockrell; Sound Selection by Victoria Wolfe, recorded with Tracey Cockrell
+
+![](uploads/Poster1.jpg)
+
 <div style="text-align:center">
-<img src="uploads/Poster1.jpg" class="large center">
 original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
 @ the garage art space, San Francisco, 2009<br />
 a friend on my manhattan rooftop

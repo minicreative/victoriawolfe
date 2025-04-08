@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: page
 ---
-<div style="text-align:left">
+<div style="text-align:center">
 <h1>victoria wolfe</h1>
 <p>images and sound</p>
 </div>

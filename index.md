@@ -7,9 +7,9 @@ layout: page
 
 images and sound
 
-![](uploads/VictoriaWolfe.png "                                                                                     📷 Susan Hwang")
+![](uploads/VictoriaWolfe.png "                                                                                      ")
 
-I write and create with video and sound. My themes are environmental activism and urban realism.
+\    📷 Susan Hwang
 
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
 

@@ -52,7 +52,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 ### creator
 
-*SF VIDEO 1*, video screener, director, editor Victoria Wolfe, screened at f8 club & bar, March 2025
+*SF VIDEO 1*, video screener, director, editor Victoria Wolfe, projected at f8 club & bar, March 2025
 
 *CC McGurr of Le Grand Strip, Interview on 1980s downtown art world*, 2016, director, DP, editor Victoria Wolfe, Williamsburg, Brooklyn
 

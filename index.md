@@ -7,7 +7,7 @@ layout: page
 
 images and sound
 
-![](uploads/VictoriaWolfe.png)
+![](uploads/VictoriaWolfe.png "                                                                                     📷 Susan Hwang")
 
 I write and create with video and sound. My themes are environmental activism and urban realism.
 

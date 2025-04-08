@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: page
 ---
-<div style="text-align:center">
+<div style="text-align:left">
 <h1>victoria wolfe</h1>
 <p>images and sound</p>
 </div>
@@ -11,7 +11,7 @@ layout: page
 ![](uploads/VictoriaWolfe.png)
 
 <!-- <div style="font-size:14px; margin-top:-10px; text-align:center;">
- 📷 Susan Hwang
+ 
 </div> -->
 
 I write and create with video and sound. My themes are environmental activism and urban realism.

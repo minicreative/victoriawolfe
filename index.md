@@ -84,7 +84,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 *DIALOGUE WITH POP*, 2004, curator, Spaceworks @ The Tank; incl Miranda July, Zhang Huan, Freestyle Collective, Maxi Cohen, Kent Lambert
 
-<img src="uploads/Work1.jpg" class="large" />
+<img src="uploads/Work1.jpg" class="half" />
 <img src="uploads/Work2.jpg" class="half" />
 
 Central Park Bench Maquette, foam core board, August 2009

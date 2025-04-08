@@ -8,7 +8,7 @@ layout: page
 <p>images and sound</p>
 </div>
 
-![](uploads/img_6210.jpg)
+![](uploads/VictoriaWolfe.png)
 
 <!-- <div style="font-size:14px; margin-top:-10px; text-align:center;">
  📷 Susan Hwang

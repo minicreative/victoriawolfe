@@ -10,9 +10,9 @@ layout: page
 
 ![](uploads/img_6210.jpg)
 
-<div style="font-size:14px; margin-top:-10px; text-align:center;">
+<!-- <div style="font-size:14px; margin-top:-10px; text-align:center;">
  📷 Susan Hwang
-</div>
+</div> -->
 
 I write and create with video and sound. My themes are environmental activism and urban realism.
 

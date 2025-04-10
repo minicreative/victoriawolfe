@@ -14,8 +14,6 @@ layout: page
  
 </div> -->
 
-
-
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
 
 **my visuals:** I conjure the Peter Max graphic art that saturated my first years living in Manhattan as a child. A Nam June Paik retrospective at the Whitney Museum and my father's exploration of creative audio cassette recording drew me to analog and digital video creating.
@@ -26,7 +24,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 ### writer
 
-*Reservoir Runner:Wormhole Sutra* dramatic reading, East Village Basement, June 2025, dir Theo Billups
+*Reservoir Runner:Wormhole Sutra* dramatic reading, East Village Basement, June 2025
 
 *Reservoir Runner Part One of Part One* dramatic reading, Torn Page, November 17/18, 2023 video recorded
 

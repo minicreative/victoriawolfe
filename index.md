@@ -111,9 +111,7 @@ original photo and graphic for promotional postcard for <i>Battlements On Fire</
 a friend on my manhattan rooftop
 </div>
 
-## cv
-
-download my CV as a PDF [here](uploads/VictoriaWolfeCV.pdf)
+[](uploads/VictoriaWolfeCV.pdf)
 
 ## contact
 

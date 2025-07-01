@@ -24,8 +24,6 @@ All of my time-based art came from a desire to include video projection in my pl
 
 ### writer
 
-*Reservoir Runner:Wormhole Sutra* dramatic reading, East Village Basement, June 2025
-
 *Reservoir Runner Part One of Part One* dramatic reading, Torn Page, November 17/18, 2023 video recorded
 
 *Danika Lives!,* TV series in development, multiple Zoom readings 2024, video recorded
@@ -79,8 +77,6 @@ All of my time-based art came from a desire to include video projection in my pl
 * "Reservoir Runner, Excerpt, Central Park, NYC, August 8, 2009" in Memory/Frequency exhibition at Worksound in Portland, Oregon  
 
 ### screenings
-
-*CHINATOWN ONIONS*, projection for Reservoir Runner:Wormhole Sutra @ East Village Basement June 2025,
 
 *SF VIDEO 1*, new wave music video screener, director, editor Victoria Wolfe, via DJ Brian Raffi, SF new wave club, March 2025
 

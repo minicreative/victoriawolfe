@@ -78,7 +78,7 @@ All of my time-based art came from a desire to include video projection in my pl
 
 ### screenings
 
-*SF VIDEO 1*, new wave music video screener, director, editor Victoria Wolfe, via DJ Brian Raffi, SF new wave club, March 2025
+*SF VIDEO 1*, new wave music video screener, director, editor V. Wolfe,  F8, 1192 Folsom, SF, CA, March 2025
 
 *DELIA APPEARS AS LA SARAGHINA*, 2015, submitted to showSTUDIO fashion films, commended by Nick Knight
 

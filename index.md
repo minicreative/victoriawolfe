@@ -27,6 +27,10 @@ All of my time-based art came from a desire to include video projection in my pl
 
 ### writer
 
+*Danika Lives!,* developmental Zoom readings, August September October 2025, NYC/California 
+
+*Reservoir Runner:Wormhole Sutra,* table reading, East Village Salon, May 2025, David Zayas Jr director
+
 *Reservoir Runner Part One of Part One* dramatic reading, Torn Page, November 17/18, 2023 video recorded
 
 *Danika Lives!,* TV series in development, multiple Zoom readings 2024, video recorded

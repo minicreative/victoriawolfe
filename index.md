@@ -8,7 +8,7 @@ layout: page
 <p>images and sound</p>
 </div>
 
-![](uploads/vpointingatcamera.jpg)
+![](/uploads/vpointingatcamera.jpg)
 
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
 
@@ -99,7 +99,7 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
 
-![](uploads/Poster1.jpg)
+![](/uploads/Poster1.jpg)
 
 <div style="text-align:center">
 original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
@@ -107,7 +107,7 @@ original photo and graphic for promotional postcard for <i>Battlements On Fire</
 a friend on my manhattan rooftop
 </div>
 
-[](uploads/VictoriaWolfeCV.pdf)
+[](/uploads/VictoriaWolfeCV.pdf)
 
 ## contact
 

@@ -10,7 +10,6 @@ layout: page
 
 ![](/uploads/vpointingatcamera.jpg)
 
-
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
 
 **my visuals:** I conjure the Peter Max graphic art that saturated my first years living in Manhattan as a child. A Nam June Paik retrospective at the Whitney Museum and my father's exploration of creative audio cassette recording drew me to analog and digital video creating.
@@ -109,6 +108,8 @@ a friend on my manhattan rooftop
 </div>
 
 [](/uploads/VictoriaWolfeCV.pdf)
+
+![](uploads/VictoriaWolfe.png)
 
 ## contact
 

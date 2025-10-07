@@ -12,7 +12,7 @@ layout: page
 
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship from a manager who survived the WWII Paris Occupation. This led to a love of post-war art and literature.
 
-**my visuals:** I conjure the Peter Max graphic art,  Nam June Paik mix of technology and sculpture, and my father's exploration of creative audio cassette recording.
+**my visuals:** I conjure the color palette of Peter Max,  Nam June Paik's mix of technology, structure and humor, and my father's exploration of creative audio cassette recording and poetry.
 
 **my sound:** My archive includes Thomas Weatherly reading aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. 
 

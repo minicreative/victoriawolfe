@@ -8,7 +8,7 @@ layout: page
 <p>images and sound</p>
 </div>
 
-![](uploads/vw-website-image.png)
+![](uploads/vw-website-image-with-brown.jpg)
 
 **my writing:** As a teenager I had an impactful professional experience - two summers of mentorship from a manager who survived the WWII Paris Occupation. This led to a love of post-war art and literature.
 

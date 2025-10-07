@@ -10,11 +10,11 @@ layout: page
 
 ![](uploads/vw-website-image.png)
 
-**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship in a top cosmetics firm from a corporate manager, Jeannine Boullier, who survived the WWII Paris Occupation. This led to a love of mid-century post-war literature. My own narratives were formed.
+**my writing:** As a teenager I had an impactful professional experience - two summers of mentorship from a manager who survived the WWII Paris Occupation. This led to a love of post-war art and literature.
 
-**my visuals:** I conjure the Peter Max graphic art that saturated my first years living in Manhattan as a child. A Nam June Paik retrospective at the Whitney Museum and my father's exploration of creative audio cassette recording drew me to analog and digital video creating.
+**my visuals:** I conjure the Peter Max graphic art,  Nam June Paik mix of technology and sculpture, and my father's exploration of creative audio cassette recording.
 
-**my sound:** I create from my own archive that includes a poet reading his work aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. These soundscapes bring the viewer more fully into the image. 
+**my sound:** My archive includes Thomas Weatherly reading aloud; original field recordings in an urban setting; eccentric tune curation; my own clinking around on a 1980s Yamaha synthesizer. 
 
 All of my time-based art came from a desire to include video projection in my plays. I found myself writing moving images into the scripts. After studying archives of Super8 home movies and art films for many years, I developed conceptually and decided to make my own. I've lived a bi-coastal life over the last 25 years, and that gives me access to varied color palettes and differing natural light in New York City versus Northern California.
 

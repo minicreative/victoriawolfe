@@ -102,9 +102,9 @@ narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October
 ![](/uploads/Poster1.jpg)
 
 <div style="text-align:center">
-original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
+(above) original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
 @ the garage art space, San Francisco, 2009<br />
-a friend on my manhattan rooftop. (below) Ronja Ver in Oakland, 2014
+a friend on my manhattan rooftop. (and below) Ronja Ver in Oakland, 2014
 </div>
 
 [](/uploads/VictoriaWolfeCV.pdf)

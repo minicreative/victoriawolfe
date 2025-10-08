@@ -109,7 +109,7 @@ a friend on my manhattan rooftop
 
 [](/uploads/VictoriaWolfeCV.pdf)
 
-![]()
+![](uploads/image-for-website.png)
 
 ## contact
 

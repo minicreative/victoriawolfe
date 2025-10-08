@@ -104,7 +104,7 @@ narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October
 <div style="text-align:center">
 (above) original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
 @ the garage art space, San Francisco, 2009<br />
-Romell Sanchez in Manhattan, 1985 (and below) Ronja Ver in Oakland, 2014
+Romell Sanchez in Manhattan (and below) Ronja Ver in Oakland, 2014
 </div>
 
 [](/uploads/VictoriaWolfeCV.pdf)

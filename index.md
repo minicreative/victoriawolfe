@@ -99,12 +99,12 @@ Portland, OR, shown by sound recorder Tracey Cockrell - from *Reservoir Runner B
 "The most satisfying work though is \[the] sound installation, *Excerpt, Central Park, NYC, August 8, 2009*. A simple corner piled with cedar chips and a park bench invites visitors to sit and listen. . .Most of the sounds are simply those of people rushing by but the snippets of conversations are suggested. Only one regarding someone's "meanness" is all that intelligible and the mind races while trying to string together some coherent
 narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October 19, 2009)
 
-![](/uploads/Poster1.jpg)
+![](uploads/tom-weatherly-screenshot.png)
 
 <div style="text-align:center">
-(above) original photo and graphic for promotional postcard for <i>Battlements On Fire</i><br />
-@ the garage art space, San Francisco, 2009<br />
-Romell Sanchez in Manhattan (and below) Ronja Ver in Oakland, 2014
+(above) "Trivet" from A Short History of the Saxophone <i>Thomas Weatherly</i><br />
+<br />
+(and below) Ronja Ver in Oakland, 2014
 </div>
 
 [](/uploads/VictoriaWolfeCV.pdf)

@@ -102,7 +102,7 @@ narrative, this too is apophenia inducing." (Jeff Jahn, PortlandArt.net, October
 ![](uploads/tom-weatherly-screenshot.png)
 
 <div style="text-align:center">
-(above) "Trivet" from A Short History of the Saxophone <i>Thomas Weatherly</i><br />
+(above) "Trivet" read by Thomas Weatherly from  <i>A Short History of the Saxophone</i><br />
 <br />
 (and below) Ronja Ver in Oakland, 2014
 </div>
